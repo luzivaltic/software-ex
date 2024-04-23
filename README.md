@@ -1,5 +1,7 @@
 # software-ex
 
+21020003 - Phạm Văn Bình
+
 # Docker, docker-composer là gì ?
 
     - Docker là một nền tảng giúp developer phát triển, sử dụng phần mềm theo tiêu chuẩn. Về cơ bản, Docker giúp giải quyết bài toán làm thế nào để chạy một ứng dụng trên mọi thiết bị một cách đơn giản nhất.
